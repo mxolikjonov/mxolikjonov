@@ -1,35 +1,71 @@
-## Hi there 👋
+# 👋 Hi, I'm Mxolikjonov
 
-
-
-<!--
-**mxolikjonov/mxolikjonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+💻 Developer in progress  
+🚀 Building projects and improving skills  
+📚 Constantly learning new technologies  
+🤝 Open to collaboration
 
 ---
 
-## GitHub статистика
+## 🧠 About Me
 
-![stats](https://github-readme-stats.vercel.app/api?username=mxolikjonov&show_icons=true)
+- 🔭 Working on personal and study projects
+- 🌱 Currently learning: Backend & system tools
+- ⚙️ Interested in automation and practical coding
+- 🎯 Goal: become a strong full-stack / backend developer
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxolikjonov&layout=compact)
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+- Python
+- JavaScript
+- C++
+
+**Tools**
+- Git & GitHub
+- Linux
+- Docker (basic)
+- REST APIs
+
+**Currently Learning**
+- Backend architecture
+- Databases
+- Clean code practices
 
 ---
 
-## Активность
+## 📂 Featured Projects
 
-![streak](https://streak-stats.demolab.com?user=mxolikjonov)
+🔹 Check my repositories below — I focus on practical and useful projects.  
+🔹 Always improving structure, documentation, and code quality.
 
 ---
+
+## 📊 GitHub Activity
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mxolikjonov&layout=compact)
+
+---
+
+## 🤝 Collaboration
+
+I’m open to:
+- small team projects
+- learning collaborations
+- open source contributions
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/mxolikjonov
+- Telegram: @your_username
+- Email: your@email.com
+
+---
+
+## ⚡ Fun Fact
+
+I like turning ideas into working code 🚀
