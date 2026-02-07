@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mxolikjonov)](https://git.io/streak-stats)
+
 
 <!--
 **mxolikjonov/mxolikjonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+---
+
+## GitHub статистика
+
+![stats](https://github-readme-stats.vercel.app/api?username=mxolikjonov&show_icons=true)
+
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxolikjonov&layout=compact)
+
+---
+
+## Активность
+
+![streak](https://streak-stats.demolab.com?user=mxolikjonov)
+
+---
