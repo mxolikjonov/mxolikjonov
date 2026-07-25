@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&height=80&lines=Hi%2C+I'm+Manuchehr"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&height=80&lines=Hi%2C+I'm+Manuchehr"/>
 </h1>
 
 <h3 align="center">
@@ -58,7 +58,6 @@ Fourth-year Computer Science student with a focus on Cybersecurity and Blockchai
 </p>
 
 </div>
-
 
 <div align="center">
   <h2> My Contributions </h2>
